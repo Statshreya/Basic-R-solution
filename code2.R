@@ -1,0 +1,10 @@
+x=2 
+y=3 
+x+3*y
+x^y
+log(x*y)
+log10(x)
+factorial(x+y)
+choose(y,x)
+beta(2+x,3-x)
+gamma(y)
